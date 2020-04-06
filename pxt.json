@@ -8,11 +8,12 @@
     "files": [
         "README.md",
         "dht11_dht22.ts",
-        "_locales/zh/pxt-DHT11_DHT22-strings",
-        "_locales/zh/pxt-DHT11_DHT22-jsdoc-strings"
+        "_locales/zh/pxt-DHT11_DHT22-strings.json",
+        "_locales/zh/pxt-DHT11_DHT22-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": true
 }
+
